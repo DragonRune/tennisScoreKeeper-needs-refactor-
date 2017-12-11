@@ -6,7 +6,6 @@ import java.lang.*;
  * meant to be uses text output to the console and takes input from the
  * keyboard.
  *
- * @author Student Person
  */
 public class TennisChallenge {
 
